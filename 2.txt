@@ -1,0 +1,9 @@
+Web 前端
+
+网页的内容包括文件(内嵌),资源
+
+1.网页元素
+
+2. 标签
+   a.  head  , body , h1(一级), h2(二级), p(段落), b(加粗), strong(强调，加粗) , i(倾斜) , a(超链接), img(图片)  , div(容器，语义范围,块状显示), span(行内显示)
+        ul(无序列表,li(列表项),  table(表格, td,tr(行)), style(css是样表), script(javascript)
